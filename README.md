@@ -15,3 +15,6 @@
 6. Eating All The Dots + heuristics
 
 ## Project 2: Multi-Agent Pacman
+1. minimax  
+2. expectimax
+3. alpha-beta pruning
